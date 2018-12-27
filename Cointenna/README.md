@@ -32,7 +32,7 @@ Tools:
 
 - Soldering gas torch;
 - Soldering iron;
-- Wise;
+- Vise;
 - Pliers;
 - A saw with small teeth;
 - Drill or equivalent tool able to create an hole in the pen's cap;
