@@ -37,6 +37,11 @@ Tools:
 - A saw with small teeth;
 - Drill or equivalent tool able to create an hole in the pen's cap;
 
+Warning:
+========
+
+Some tool cold be dangerous if you aren't experienced in soldering and fabrication, ask someone with the right skills to help you. Acid and soldering alloy emits toxicA fumes: wear protective gears.  The realization of this project is therefore strictly at your own risk, in no event will I be liable for any damage, injuries or losses resulting from the execution of this project.
+
 
 Build Process:
 ==============
