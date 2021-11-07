@@ -1,7 +1,8 @@
 DIY Repository:
 ===============
 
-Hardware Projects:
-==================
+Index:
+======
 
-- Cointenna
+- Cointenna: testing an antemma made of coins;
+- Lockpicking: I do lockpicking for fun, in this section some notes of mine;
