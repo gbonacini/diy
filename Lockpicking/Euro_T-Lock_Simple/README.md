@@ -1,7 +1,7 @@
 Disclaimer:
 ============
 
-This document is presented for educational purpose, I'll be not responsible of any different usage. Opening locks don't belong to you without permissions is illegal.
+This document is released for educational purpose, I'll be not responsible of any different usage. Opening locks don't belong to you without permissions is illegal.
 
 
 Description:
@@ -10,7 +10,7 @@ Description:
 This is my firts T-Lock (closed): <br/>
 ![alt text](picts/closed_lock.jpg "Closed lock")
 
-This anonymous lock has 5 classic pins, so none of them has security features.
+This unbranded lock has 5 classic pins, so none of them has security features.
 
 Materials:
 =========
